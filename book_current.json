@@ -1,0 +1,19 @@
+{
+  "title": "移动端APP开发总结",
+  "description": "之前折腾过少量的Android开发和一段时间的iOS开发，也了解过混合App的开发，也涉及过基于H5页面加原生壳的APP开发等等，所以此处去整理出这些关于移动端APP开发的各种方面的技术和经验心得，供参考。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "mobile_app_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/mobile_app_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/mobile_app_summary/pdf/mobile_app_summary.pdf"
+    }
+  }
+}

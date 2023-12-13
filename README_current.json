@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v0.9",
+  "lastUpdate": "20231213",
+  "gitRepoName": "mobile_app_summary",
+  "bookName": "移动端APP开发总结",
+  "bookDescription": "之前折腾过少量的Android开发和一段时间的iOS开发，也了解过混合App的开发，也涉及过基于H5页面加原生壳的APP开发等等，所以此处去整理出这些关于移动端APP开发的各种方面的技术和经验心得，供参考。"
+}
