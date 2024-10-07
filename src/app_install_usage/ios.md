@@ -37,7 +37,7 @@ https://fir.im/XxxiOSProd
 
 ![Safari中弹出下载提示](../assets/img/safari_popup_download_notice.jpg)
 
-> #### info::弹出提示会显示出域名
+> [!TIP|title:弹出提示会显示出域名]
 >
 > 对于此处弹出的提示中的`download.fir.im`，其实就是对应的之前提到的`plist`文件所在的`https`的服务器的域名/IP。
 
@@ -53,7 +53,7 @@ https://fir.im/XxxiOSProd
 
 ![iPhone中App安装完毕](../assets/img/iphone_complete_install_app.jpg)
 
-> #### warning::下载速度取决于实际情况
+> [!WARNING|title:下载速度取决于实际情况]
 >
 > 对于此处的fir.im中的，是针对国内网络优化过的速度，所以下载很快的。
 >
